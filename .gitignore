@@ -1,0 +1,14 @@
+/*
+!/src
+!/public
+!/tests
+
+!/.gitignore
+!/.github
+!/composer.json
+!/phpunit.xml.dist
+!/psalm.xml
+!/phpstan.neon
+!/rector.php
+!/README.md
+!/LICENSE.md
